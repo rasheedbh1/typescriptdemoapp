@@ -1,0 +1,3 @@
+interface HasFormatter{
+    format(): string;
+}
